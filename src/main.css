@@ -36,6 +36,11 @@ img {
   width: 50px;
 }
 
+.choice:hover {
+  border-width: 2px;
+  border-color: slategray;
+}
+
 .choice-selected {
   border-width: 2px;
   border-color: lightblue; 
